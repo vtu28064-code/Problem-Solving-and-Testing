@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/0179-largest-number) |
 | [1154-day-of-the-year](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/1154-day-of-the-year) |
