@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/0347-top-k-frequent-elements) |
 | [0867-transpose-matrix](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/0867-transpose-matrix) |
+| [0890-find-and-replace-pattern](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/0918-maximum-sum-circular-subarray) |
 | [1314-matrix-block-sum](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/1314-matrix-block-sum) |
 | [1470-shuffle-the-array](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/1470-shuffle-the-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/0347-top-k-frequent-elements) |
+| [0890-find-and-replace-pattern](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/0890-find-and-replace-pattern) |
 | [2418-sort-the-people](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/2418-sort-the-people) |
 ## String
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/0179-largest-number) |
+| [0890-find-and-replace-pattern](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/0890-find-and-replace-pattern) |
 | [1154-day-of-the-year](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/1360-number-of-days-between-two-dates) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/1704-determine-if-string-halves-are-alike) |
