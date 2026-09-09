@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/0049-group-anagrams) |
+| [1154-day-of-the-year](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/1360-number-of-days-between-two-dates) |
 ## Sorting
 |  |
@@ -63,5 +64,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1154-day-of-the-year](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/1360-number-of-days-between-two-dates) |
 <!---LeetCode Topics End-->
