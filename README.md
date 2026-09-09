@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/0347-top-k-frequent-elements) |
 | [0867-transpose-matrix](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/0867-transpose-matrix) |
+| [1314-matrix-block-sum](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/1314-matrix-block-sum) |
 | [1470-shuffle-the-array](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/1470-shuffle-the-array) |
 | [1732-find-the-highest-altitude](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/1732-find-the-highest-altitude) |
 | [2418-sort-the-people](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/2418-sort-the-people) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1314-matrix-block-sum](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/1314-matrix-block-sum) |
 | [1732-find-the-highest-altitude](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/0867-transpose-matrix) |
+| [1314-matrix-block-sum](https://github.com/vtu28064-code/Problem-Solving-and-Testing/tree/master/1314-matrix-block-sum) |
 ## Simulation
 |  |
 | ------- |
